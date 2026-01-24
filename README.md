@@ -101,12 +101,3 @@ CMD ["npm", "start"]
 
 ---
 
-## 🙌 Contributing
-
-Feel free to fork or submit a PR with improvements or your own Jenkins caching tricks!
-
----
-
-## 📬 Questions?
-
-Open an issue or connect with me on [LinkedIn](https://www.linkedin.com/notharshhaa).
