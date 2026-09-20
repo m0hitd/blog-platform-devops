@@ -2,13 +2,13 @@
 
 ---
 
-## 🚀 Optimizing `npm install` in Jenkins CI for Node.js Projects
+##  Optimizing `npm install` in Jenkins CI for Node.js Projects
 
 This guide shows how I improved build speed for a **Node.js frontend application** running inside a **Jenkins CI/CD pipeline** by applying caching, smart installs, and best practices.
 
 ---
 
-## ✅ Key Optimizations
+##  Key Optimizations
 
 - Replaced `npm install` with `npm ci`  
 - Cached dependencies using `.npm` cache  
